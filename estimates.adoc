@@ -1,5 +1,0 @@
-= Estimates for DATE:
-
-== Optimistic:
-== Realistic:
-== Pessimistic:
